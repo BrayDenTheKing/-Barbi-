@@ -140,7 +140,7 @@ Click Help button to find out more about how to use me to my full potential.\n\n
 
     text += "Hit help❔ to get a full list available command or click on the link below.\n\n\
 Follow [News](https://t.me/BotDevlopers) if you want to keep up with the news, updates and bot downtime!\n\n\
-
+Contact @RoseSupportBot if you have questions about the bot
 
     keyboard = [[InlineKeyboardButton(text="♻️ add me to a group ♻️", url="https://t.me/RoseMarieMarloBot?startgroup=true")]]
     keyboard += [[InlineKeyboardButton(text="🛠 Control panel", callback_data="cntrl_panel_M")]]
